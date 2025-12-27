@@ -30,7 +30,7 @@
 ### 1.5 UML（Use Case Diagram）
 顯示各角色與系統功能之互動關係：
 
-![Use Case Diagram](Use Case Diagram.png)
+![Use Case Diagram](用例圖.png)
 
 ---
 
@@ -51,7 +51,7 @@
 ### 2.3 系統流程概述
 顯示使用者操作流程與資料庫互動：
 
-![系統流程圖](UML_SystemFlow.png)
+![系統流程圖](系統流程圖.png)
 
 ---
 
@@ -73,7 +73,7 @@
 ### 3.3 UML（Class Diagram）
 顯示類別結構及關聯：
 
-![Class Diagram](UML_Class.png)
+![Class Diagram](類別圖.png)
 
 ---
 
@@ -95,7 +95,7 @@
 ### 4.4 Sequence Diagram（新增員工資料）
 顯示新增員工資料流程中模組訊息互動：
 
-![Sequence Diagram](A_UML_sequence_diagram_titled_"新增員工資料"_("Add_New_E.png)
+![Sequence Diagram](A_UML_sequence_diagram_titled_"新增員工資料"_(序列圖.png)
 
 ---
 ## 五、結論
