@@ -95,7 +95,7 @@
 ### 4.4 Sequence Diagram（新增員工資料）
 顯示新增員工資料流程中模組訊息互動：
 
-![Sequence Diagram](A_UML_sequence_diagram_titled_"新增員工資料"_(序列圖.png)
+![Sequence Diagram](序列圖.png)
 
 ---
 ## 五、結論
